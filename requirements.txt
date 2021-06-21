@@ -1,0 +1,7 @@
+numpy
+keras
+tensorflow
+matplotlib
+pydot
+graphviz # brew install graphviz
+flask
